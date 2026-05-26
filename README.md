@@ -1,4 +1,4 @@
-\# EF-CMFNet
+# EF-CMFNet
 
 This repo holds code for \[EG-CMFNet: An Edge-Guided Cross-Modal Fusion
 
