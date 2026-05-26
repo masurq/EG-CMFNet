@@ -2,8 +2,7 @@
 
 This repo holds code for \[EG-CMFNet: An Edge-Guided Cross-Modal Fusion
 
-Network for Remote Sensing Semantic Segmentation](https://ieeexplore.ieee.org/document/11481201)
-
+Network for Remote Sensing Semantic Segmentation](https://ieeexplore.ieee.org/document/11481201 "悬停显示")
 \# The overall architecture
 
 We propose a novel Edge guided Cross-modal Fusion Network (EG-CMFNet). Specifically, a multi-stream CNN and Transformer architecture extracts global semantic features from optical and SAR data. Meanwhile, Multimodal Adaptive Feature Interaction (MAFI) modules and Lightweight Feature Fusion (LFF) modules conduct adaptive cross-modal interactions and efficient multiscale fusion across hierarchical feature levels. Additionally, a CNN-based edge branch incorporates an Edge Auxiliary (EA) module to refine boundary by leveraging edge information.
